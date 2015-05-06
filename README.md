@@ -1,4 +1,4 @@
-##I used the -q option which makes the install of the rails app in quiet mode. In this mode all the install status is invisible.
+I used the -q option which makes the install of the rails app in quiet mode. In this mode all the install status is invisible..
 
 == README
 
